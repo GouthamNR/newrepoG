@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class PractiesTest {
     @Test (priority = 1)
-	public static void test() {
+	public static void Test() {
 		System.out.println("Test_1 from practiesTest ");
 	}
     @Test
