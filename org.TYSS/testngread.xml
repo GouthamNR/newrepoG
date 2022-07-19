@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteRead">
+  <test thread-count="5" name="TestRead">
+    <classes>
+      <class name="com.readDataFromCommand.ToReadTheDataFromCommandTest"/>
+    </classes>
+  </test> <!-- TestRead -->
+</suite> <!-- SuiteRead -->
