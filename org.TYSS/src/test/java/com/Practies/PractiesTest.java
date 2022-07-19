@@ -10,6 +10,7 @@ public class PractiesTest {
     @Test
     public static void Test1() {
     	System.out.println("Test_2 from practiesTest");
+	    //i dont want to  change anything
     }
     
     @Test
