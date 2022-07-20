@@ -5,7 +5,7 @@
     <classes>
       <class name="com.Practies.PractiesTest2"/>
       <class name="com.Practies.PractiesTest1"/>
-      <class name="com.Practies.PractiesTest"/>
+      <class name="com.Practies.PractiesTest3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
