@@ -6,7 +6,8 @@ public class PractiesTest1 {
     @Test (priority = 1)
 	public static void Test() {
 		System.out.println("Test_1 from practiesTest1 ");
-	}
+    }
+    
     @Test
     public static void Test1() {
     	System.out.println("Test_2 from practiesTest1");
@@ -18,4 +19,5 @@ public class PractiesTest1 {
     public static void Test2() {
     	System.out.println("Test_3 from practiesTest1");
     }
+ 
 }
