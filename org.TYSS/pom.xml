@@ -60,6 +60,7 @@
         <configuration>
           <suiteXmlFiles>
             <suiteXmlFile>testngToReadData.xml</suiteXmlFile>
+            <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
