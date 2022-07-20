@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Practies.PractiesTest2"/>
-      <class name="com.Practies.PractiesTest1"/>
-      <class name="com.Practies.PractiesTest3"/>
+      <class name="com.readDataFromCommand.ToReadTheDataFromCommandTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
